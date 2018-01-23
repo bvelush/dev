@@ -1,0 +1,16 @@
+!SESSION 2018-01-14 22:54:49.343 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2018-01-14 22:55:57.318
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10011 2018-01-14 22:55:57.318
+!MESSAGE "Object Teams Patch for JDT/Core" is not applicable to the current configuration and will not be installed.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2018-01-14 22:55:57.319
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10011 2018-01-14 22:55:57.319
+!MESSAGE "Object Teams Patch for JDT/Core" is not applicable to the current configuration and will not be installed.
